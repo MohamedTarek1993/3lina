@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8801" data-name="Rectangle 8801" width="62" height="62" transform="translate(1147 2307.5)" fill="#1b1b1b" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1643" data-name="Mask Group 1643" transform="translate(-1147 -2307.5)" clip-path="url(#clip-path)">
+    <g id="invoice" transform="translate(1147 2307.5)">
+      <g id="Group_27895" data-name="Group 27895">
+        <g id="Group_27894" data-name="Group 27894">
+          <rect id="Rectangle_8804" data-name="Rectangle 8804" width="40.118" height="4.559" transform="translate(10.485 57.251)" fill="#1b1b1b"/>
+        </g>
+      </g>
+      <g id="Group_27897" data-name="Group 27897">
+        <g id="Group_27896" data-name="Group 27896">
+          <path id="Path_19265" data-name="Path 19265" d="M37.762,20.553H23.706a2.279,2.279,0,1,0,0,4.559H37.762a2.279,2.279,0,1,0,0-4.559Z" fill="#1b1b1b"/>
+        </g>
+      </g>
+      <g id="Group_27899" data-name="Group 27899">
+        <g id="Group_27898" data-name="Group 27898">
+          <path id="Path_19266" data-name="Path 19266" d="M48.4,31.19H23.706a2.279,2.279,0,1,0,0,4.559H48.4a2.279,2.279,0,0,0,0-4.559Z" fill="#1b1b1b"/>
+        </g>
+      </g>
+      <g id="Group_27901" data-name="Group 27901">
+        <g id="Group_27900" data-name="Group 27900">
+          <path id="Path_19267" data-name="Path 19267" d="M60.657.467A2.282,2.282,0,0,0,58.21.838L51.827,6.485,45.436.771a2.279,2.279,0,0,0-3.039,0L36.015,6.478,29.632.771a2.278,2.278,0,0,0-3.038,0L20.2,6.485,13.819.838a2.28,2.28,0,0,0-3.79,1.707V43.119H2.279A2.279,2.279,0,0,0,0,45.4v5.547A10.878,10.878,0,0,0,10.865,61.81V57.251a6.314,6.314,0,0,1-6.306-6.306V47.678H40.27v3.267a10.865,10.865,0,1,0,21.73,0V2.545A2.279,2.279,0,0,0,60.657.467ZM57.441,50.945a6.306,6.306,0,0,1-12.613,0V45.4a2.279,2.279,0,0,0-2.279-2.279H14.588V7.6L18.7,11.244a2.279,2.279,0,0,0,3.029-.008l6.382-5.708L34.5,11.235a2.279,2.279,0,0,0,3.039,0l6.383-5.708L50.3,11.235a2.28,2.28,0,0,0,3.029.008l4.112-3.638Z" fill="#1b1b1b"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
